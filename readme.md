@@ -51,3 +51,7 @@ LLEN chat.1
 //LRANGE - Ausgabe aller Elemente
 
 LRANGE chat.1 0 -1
+
+
+----------------------------------------------------------
+http://localhost:3000/index.html?
