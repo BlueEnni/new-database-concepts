@@ -1,0 +1,27 @@
+{
+  "name": "new-database-concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueEnni/new-database-concepts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueEnni/new-database-concepts/issues"
+  },
+  "homepage": "https://github.com/BlueEnni/new-database-concepts#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^15.4.0",
+    "redis": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
