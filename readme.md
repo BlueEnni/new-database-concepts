@@ -17,6 +17,8 @@ anstelle von node
 
 npm install --save redis
 
+npm install --save body-parser
+
 ------------------------------------------------------------------------------------------------------------
 
 
